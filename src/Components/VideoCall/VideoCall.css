@@ -1,0 +1,145 @@
+.mainContainer{
+    background-color: rgb(26, 25, 25);
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgDiv{
+    width: 85%;
+    position: relative;
+    top: 100px;
+    left: 30px;
+    
+    
+}
+.img{
+    margin: 5px;
+    columns: 3;
+}
+
+#boyy{
+    height: 250px;
+    width: 330px;
+}
+#girl{
+    height: 250px;
+    width: 330px;  
+}
+#girl2{
+    height: 250px;
+    width: 330px; 
+}
+#girl3{
+    height: 250px;
+    width: 330px;
+}
+#girl4{
+    height: 250px;
+    width: 330px;
+}
+
+#girl5{
+    height: 250px;
+    width: 330px;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    font-size: 35px;
+    width: 20%;
+    position: relative;
+    left: 450px;
+    top: 30px;
+}
+
+#videoIcon{
+background-color: white;
+color: red;
+padding: 8px 10px;
+border-radius: 50%;
+}
+
+#phnIcon{
+    background-color:red;
+    color: white;
+    padding: 8px 10px;
+border-radius: 50%;
+}
+
+#micIcon{
+    background-color: white;
+    color: red;
+    padding: 8px 10px;
+border-radius: 50%;
+    
+}
+
+.asideContainer{
+    width: 20%;
+    height: 730px;
+    background-color: rgb(10, 10, 10);
+    padding: 5px 10px;
+}
+
+.asideDiv{
+display: flex;
+justify-content: space-between;
+color: white;
+}
+
+.OnlineFriends{
+color: white;
+margin: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+#boy1{
+height: 30px;
+width: 30px;
+border-radius: 50%;
+position: relative;
+top: 10px;
+}
+
+#girls{
+    height: 30px;
+width: 30px;
+border-radius: 50%;
+position: relative;
+top: 10px;
+}
+
+#girls2{
+    height: 30px;
+width: 30px;
+border-radius: 50%;
+position: relative;
+top: 10px;
+}
+
+#girls3{
+    height: 30px;
+width: 30px;
+border-radius: 50%;
+position: relative;
+top: 10px;
+}
+
+#girls4{
+    height: 30px;
+width: 30px;
+border-radius: 50%;
+position: relative;
+top: 10px;
+}
+
+#girls5{
+    height: 30px;
+width: 30px;
+border-radius: 50%;
+position: relative;
+top: 10px;
+}

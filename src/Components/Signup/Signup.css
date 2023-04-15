@@ -1,0 +1,33 @@
+.mainDiv{
+    background: url('./Photo/pic.jpg') no-repeat;
+    object-fit: cover;
+    height: 650px;
+    width: 100%;
+    margin: 0;
+}
+
+#title{
+    font-size: 55px;
+    text-align: center;
+    color: white;
+}
+
+#exploreBtn{
+    font-size: 30px;
+    padding: 10px 30px ;
+    background-color: cornflowerblue;
+    color: white;
+
+    position: relative;
+    left: 600px;
+    bottom: 350px;
+
+    border-radius: 20px;
+}
+
+#exploreBtn:hover{
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+    transform: scaleX(2);
+}

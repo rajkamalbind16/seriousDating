@@ -1,0 +1,24 @@
+.chat_main{
+ display:flex;
+}
+.welcome{
+    margin-left: 300px;
+    color: red;
+}
+.carddd{
+    width: 150px;
+    height: 200px;
+    margin-left: -500px;
+
+}
+.cardContainer{
+  
+}
+.buttons2{
+margin-top: 280px;
+margin-left: -290px;
+}
+
+.chats{
+    
+}

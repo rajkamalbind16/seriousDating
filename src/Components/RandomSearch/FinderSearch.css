@@ -1,0 +1,38 @@
+.mainContainerBG{
+  background:url('./photo/coolBackground.png')no-repeat;
+}
+.titleMatch{
+    background-color: red;
+    width: 100%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+
+.swiper {
+    border: 5px solid pink;
+    width: 500px;
+    height: 440px;
+    border-radius: 20% 20%;
+    box-shadow: rgba(77, 76, 76, 0.5) 0px 10px 50px;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 550px;
+    height: 450px;
+    object-fit: fill;
+  }
+  

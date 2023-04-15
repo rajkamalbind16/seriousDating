@@ -1,0 +1,72 @@
+.main{
+    max-width: 100%;   
+
+}
+.find{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+         
+}
+.header_icon{
+    padding: 20px;
+}
+
+.card{
+    position: relative;
+    width: 600px;
+    padding: 20px;
+    max-width: 85vw;
+    height: 50vh;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+}
+.card > h3{
+    position: absolute;
+    bottom: 10px;
+    color: white;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 3vh;
+  
+}
+.swipe{
+    position: absolute;
+    margin-top: 15px;
+   
+    
+}
+.gallary{
+    margin-top: 0px;
+    display: flex;
+}
+.gallary1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 30px;
+    margin-left: 30px;
+    border: 1px solid black;
+}
+.share-btn{
+    position: relative;
+    border: none;
+    background: #fff;
+    color: #ff7d7d;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    padding-top: 2.5px;
+    padding-right: 3px;
+    cursor: pointer;
+    z-index: 2;
+}
+.buttons{
+    margin-top: 32%;
+    margin-left: 40%;
+
+}

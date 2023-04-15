@@ -1,0 +1,16 @@
+.chat{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    height: 70px;
+    border-bottom: 1px solid rgba(19, 8, 8, 0.021);
+}
+.chat__details{
+    margin-top: 30px;
+}
+.chat__details>p{
+    color: gray;
+}
+.chat__image{
+    margin-right: 20px;
+}

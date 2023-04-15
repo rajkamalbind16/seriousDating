@@ -1,0 +1,27 @@
+.learn{
+    background-color: rgb(92, 87, 90);
+    height: 200vh;
+
+}
+.learn_text{
+    color: white;
+    margin-left: 230px;
+    margin-top: 90px;
+}
+.learn_main{
+    margin-left: 180px;
+}
+.learn_section{
+    
+    padding-left: 80px;
+
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+}
+.couple img{
+    width:40%;
+    height: 350px;
+    padding-left: 80px;
+}
+

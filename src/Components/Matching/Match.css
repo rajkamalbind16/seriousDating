@@ -1,0 +1,110 @@
+.rWeComp{
+    color: red;
+    width: 98%;
+    display: flex;
+   
+    justify-content: space-between;
+    padding: 5px 15px;
+    font-size: 17px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.titleMatchs{
+    width: 80%;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    left: 100px;
+   
+}
+.rWeComp{
+    margin-top: 40px;
+    width: 98%;
+    display: flex;
+    justify-content: space-between;
+}
+#compatible{
+    font-size: 25px;
+}
+#matchBtn{
+    border-radius: 50%;
+    font-size: 15px;
+    padding: 0.5px 20px;
+    background-color: red;
+}
+
+#matchBtn:hover{
+    color: white;
+    transition: 0.5s;
+    transform: scaleX(1.2);
+}
+
+.DivMatchingContainer{
+    background-color: rgb(39, 40, 40);
+    width: 80%;
+    height: 520px;
+    position: relative;
+    left: 100px;
+}
+
+
+.divMatching{
+    width: 80%;
+    position: relative;
+    left: 80px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 10px;
+}
+
+
+#boy{
+    height: 250px;
+    width: 350px;
+
+}
+
+#heart{
+    height: 90px;
+    width: 100px;
+    position: relative;
+    top: 60px;
+}
+
+#girl{
+    height: 250px;
+    width: 350px;
+}
+
+.divContainerPro{
+    text-align: center;
+    color: white;
+    font-size: 19px;
+}
+
+.iconLINKDiv{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 290px;
+}
+.iconLINK{
+    border: 1px solid red;
+    padding: 1px 10px;
+}
+
+#SkipBtn{
+    font-size: 20px;
+    color: rgb(16, 16, 16);
+    background-color: white;
+    border-radius: 35px;
+    padding: 5px 10px;
+    position: relative;
+    top: 15px;
+}

@@ -1,0 +1,37 @@
+.hero{
+        display: flex;
+        padding-top: 30px;
+        height: 100vh;
+        background-color: rgb(16, 173, 201);    
+        justify-content: space-between;
+        background-image: url(../images/pic3.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+.Logo{
+    margin-left: 30px;
+    color: white;
+    font-size: 30px;
+}
+.Sub_Logo{
+    color: white;
+    display: flex;
+   }
+.Sub_Logo a{
+    margin-left: 60px;
+    text-decoration: none;
+    color: white;
+}
+.user_icon{
+    margin-top: 17px;
+    color: white;
+}
+.user{
+    margin-left: -50px;   
+    margin-top: 13px;
+   
+}
+.heading{
+    margin-top: 400px;
+    margin-right:39px;
+}
